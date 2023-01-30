@@ -1,0 +1,24 @@
+body {
+    text-align:center ;
+    background: aquamarine;
+}
+#start-btn
+{
+    width: 40%;
+}
+#camara
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#campo
+{
+    width: 300px;
+}
+ 
